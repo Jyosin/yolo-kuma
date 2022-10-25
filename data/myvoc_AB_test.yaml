@@ -1,0 +1,8 @@
+train: /home/wang/yolov5/VOCData_AB_test/dataSet_path/train.txt
+val: /home/wang/yolov5/VOCData_AB_test/dataSet_path/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ["bear"]

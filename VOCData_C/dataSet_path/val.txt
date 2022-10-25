@@ -1,0 +1,10 @@
+/home/wang/yolov5/VOCData_C/images/78.jpg
+/home/wang/yolov5/VOCData_C/images/73.jpg
+/home/wang/yolov5/VOCData_C/images/75.jpg
+/home/wang/yolov5/VOCData_C/images/57.jpg
+/home/wang/yolov5/VOCData_C/images/70.jpg
+/home/wang/yolov5/VOCData_C/images/84.jpg
+/home/wang/yolov5/VOCData_C/images/12.jpg
+/home/wang/yolov5/VOCData_C/images/61.jpg
+/home/wang/yolov5/VOCData_C/images/3.jpg
+/home/wang/yolov5/VOCData_C/images/15.jpg

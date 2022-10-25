@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>test_2293.jpg</filename>
+	<path>/home/wang/yolov5/VOCData/images/test_2293.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>54</ymin>
+			<xmax>536</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>
